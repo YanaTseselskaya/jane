@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jane\\source\\repos\\jane\\Lesson 2\\MyApp1\\MyApp1\\MyApp1.csproj",
-      "projectName": "MyApp1",
-      "projectPath": "C:\\Users\\Jane\\source\\repos\\jane\\Lesson 2\\MyApp1\\MyApp1\\MyApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Jane\\source\\repos\\Lesson3\\Lesson3\\Lesson3.csproj",
+      "projectName": "Lesson3",
+      "projectPath": "C:\\Users\\Jane\\source\\repos\\Lesson3\\Lesson3\\Lesson3.csproj",
       "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jane\\source\\repos\\jane\\Lesson 2\\MyApp1\\MyApp1\\obj\\",
+      "outputPath": "C:\\Users\\Jane\\source\\repos\\Lesson3\\Lesson3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
