@@ -1,0 +1,16 @@
+C:\Users\yanaz\source\repos\Figures\Figures3D\bin\Debug\net5.0\Figures3D.exe
+C:\Users\yanaz\source\repos\Figures\Figures3D\bin\Debug\net5.0\Figures3D.deps.json
+C:\Users\yanaz\source\repos\Figures\Figures3D\bin\Debug\net5.0\Figures3D.runtimeconfig.json
+C:\Users\yanaz\source\repos\Figures\Figures3D\bin\Debug\net5.0\Figures3D.runtimeconfig.dev.json
+C:\Users\yanaz\source\repos\Figures\Figures3D\bin\Debug\net5.0\Figures3D.dll
+C:\Users\yanaz\source\repos\Figures\Figures3D\bin\Debug\net5.0\Figures3D.pdb
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.csproj.AssemblyReference.cache
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.AssemblyInfoInputs.cache
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.AssemblyInfo.cs
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.csproj.CoreCompileInputs.cache
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.dll
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\refint\Figures3D.dll
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.pdb
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\Figures3D.genruntimeconfig.cache
+C:\Users\yanaz\source\repos\Figures\Figures3D\obj\Debug\net5.0\ref\Figures3D.dll

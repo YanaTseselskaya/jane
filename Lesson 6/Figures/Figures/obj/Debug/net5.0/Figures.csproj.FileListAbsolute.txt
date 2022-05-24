@@ -1,0 +1,16 @@
+C:\Users\yanaz\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.exe
+C:\Users\yanaz\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.deps.json
+C:\Users\yanaz\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.runtimeconfig.json
+C:\Users\yanaz\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.runtimeconfig.dev.json
+C:\Users\yanaz\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.dll
+C:\Users\yanaz\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.pdb
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.csproj.AssemblyReference.cache
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.AssemblyInfoInputs.cache
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.AssemblyInfo.cs
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.dll
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\refint\Figures.dll
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.pdb
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.genruntimeconfig.cache
+C:\Users\yanaz\source\repos\Figures\Figures\obj\Debug\net5.0\ref\Figures.dll
